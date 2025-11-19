@@ -24,7 +24,7 @@ function mostrarMensaje($texto, $tipo = "info") {
 // Usando la función
 mostrarMensaje("El proyecto se ejecutó correctamente", "exito");
 mostrarMensaje("Esta es una información importante", "info");
-mostrarMensaje("Hubo un problema al procesar", "error");
+mostrarMensaje("Hubo un pghfhgdfgroblema al procesar", "error");
 
 echo "\n¡Proyecto finalizado!\n";
 ?>
