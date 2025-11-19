@@ -8,7 +8,7 @@
 
 
 
-// Función personalizada para mensajes
+// Función personalizada para mensajesaaaaaaaaaaaaaaaaaaaaa
 function mostrarMensaje($texto, $tipo = "info") {
     $colores = [
         "info" => "\033[36m",    // Cyan
